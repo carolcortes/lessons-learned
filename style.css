@@ -5,14 +5,26 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  text-align: center;
+  background-color: rgb(76, 164, 136);
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(253, 251, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  color: rgb(253, 251, 251)
 }
 
 #minha_foto {
   width: 300px;
-  margin-top: 60px;
+  margin-top: 80px;
   border-radius: 15px;
 }
 
 #rodape {
   text-align: center;
+  font-size: 85%;
+  background-color: rgb(76, 164, 136);
+  border-style: solid;
+  border-color: rgb(253, 251, 251);
 }

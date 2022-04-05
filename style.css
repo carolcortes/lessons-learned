@@ -41,7 +41,7 @@ body {
 #identificacao {
   text-align: center;
   text-decoration: solid;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Courier, monospace;
   font-size: 12px;
   line-height: 13px;
 }

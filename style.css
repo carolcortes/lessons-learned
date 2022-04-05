@@ -10,4 +10,5 @@ body {
 #minha_foto {
     width: 300px;
     margin-top: 60px;
+    border-radius: 15px;
 }

@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Leassons Learned :woman_technologist:
+``Abril/2022``
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+> Projeto desenvolvido no Bloco 3 - Introdução à HTML e CSS, no módulo de Fundamentos de Desenvolvimento Web, na [Trybe](https://www.betrybe.com/).
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- Desenvolvimento de uma página contendo as habilidades aprendidas nos três primeiros blocos do Curso de Desenvolvimento Web da Trybe. A página contém elementos posicionados e estilizados, com semântica apropriada para que seja acessível e melhor ranqueado. 
+
+#### Habilidades:
+  - HTML Semântico
+  - CSS
+
+###### Projeto desenvolvido por: [Carol Cortes](https://github.com/carolcortes)
+
+  <a href = "mailto:caroline.ocortes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolinecortess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

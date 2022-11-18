@@ -8,6 +8,8 @@
 #### Habilidades:
   - HTML Semântico
   - CSS
+  
+![image](https://user-images.githubusercontent.com/98475840/202767276-7d13e6f0-5bd6-41ed-ba84-def7c5f58567.png)
 
 ###### Projeto desenvolvido por: [Carol Cortes](https://github.com/carolcortes)
 

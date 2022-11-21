@@ -5,9 +5,11 @@
 
 - Desenvolvimento de uma página contendo as habilidades aprendidas nos três primeiros blocos do Curso de Desenvolvimento Web da Trybe. A página contém elementos posicionados e estilizados, com semântica apropriada para que seja acessível e melhor ranqueado. 
 
-#### Habilidades:
+## Habilidades:
   - HTML Semântico
   - CSS
+  
+#### Avaliação de desempenho:
   
 ![image](https://user-images.githubusercontent.com/98475840/202767276-7d13e6f0-5bd6-41ed-ba84-def7c5f58567.png)
 
